@@ -6,6 +6,8 @@ font-family: Helvetica Neue;
 .product {
 display: inline-block;
 margin: 5px;
+  height: 150px;
+  width 150px;
 }
 
 #basketImage {
